@@ -6,7 +6,7 @@ Projects and resources related to the agriculture/ICT-themed hackathon cohosted 
 The team_projects folder contains the presentations given by all the participating Hack4Farming teams to the judges. Anyone interested in more details concerning a particular presentation should contact [the organizers](mailto:hack4eafarming@gmail.com).
 
 ##Resources
-The resources kit for Hack4Farming was posted to the [aWhere developer's portal](developer.awhere.com/hack4farming). The links should be continually accessible at that site, and will be added to in future events.
+The resources kit for Hack4Farming was posted to the [aWhere developer's portal](https://developer.awhere.com/hack4farming). The links should be continually accessible at that site, and will be added to in future events.
 
 ##Media
 Twitter coverage of the event can be found at [#hack4farming](https://twitter.com/search?f=tweets&vertical=default&q=%23hack4farming&src=typd). Subsequent events have also used the hashtag.
