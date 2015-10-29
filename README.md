@@ -1,6 +1,6 @@
 # Hack4Farming East Africa - Nairobi, October 2015
 
-Projects and resources related to the agriculture/ICT-themed hackathon cohosted by [aWhere](http://www.awhere.com/) & [Nafundi](https://nafundi.com/), and sponsored by the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/). 
+Projects and resources related to the agriculture/ICT-themed hackathon cohosted by [aWhere](http://www.awhere.com/) & [Nafundi](https://nafundi.com/), and sponsored by the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/). 
 
 ##Projects
 The team_projects folder contains the presentations given by all the participating Hack4Farming teams to the judges. Anyone interested in more details concerning a particular presentation should contact [the organizers](mailto:hack4eafarming@gmail.com).
