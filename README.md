@@ -1,9 +1,13 @@
-# Hack4Farming East Africa - Nairobi, October 2015
+# Hack4Farming East Africa
+##Nairobi, October 2015
 
 Projects and resources related to the agriculture/ICT-themed hackathon cohosted by [aWhere](http://www.awhere.com/) & [Nafundi](https://nafundi.com/), and sponsored by the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/). 
 
-##Projects
+##team_projects
 The team_projects folder contains the presentations given by all the participating Hack4Farming teams to the judges. Anyone interested in more details concerning a particular presentation should contact [the organizers](mailto:hack4eafarming@gmail.com).
+
+##code_outputs
+The code_outputs folder contains code created during the hackathon which coders chose to make publicly available. Hackers looking to add code should email it to the organizers or request to be added as a collaborator on this repository.
 
 ##Resources
 The resources kit for Hack4Farming was posted to the [aWhere developer's portal](https://developer.awhere.com/hack4farming), containing links to free or free-trial APIs, datasets, and software. The links should be continually accessible at that site, and will be added to in future events.
